@@ -270,7 +270,9 @@ def post_data():
             '学校是我家，文明去你妈',
             '学校是我家，文明靠大家',
             '250',
-            '我屮艸芔茻你妈的'
+            '我屮艸芔茻你妈的',
+            '我请你吃屎',
+            '叫爸爸'
         ]
         random.shuffle(herbalist)
         send(random.choice(herbalist), request.get_json().get('group_id'))

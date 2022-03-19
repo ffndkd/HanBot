@@ -172,6 +172,7 @@ def post_data():
         herbalist = [  # 祖安语录
             '[CQ:image,file=file:///C:/FromHanTools/liaotian/img/jb.jpg]',
             '你刚出生就被你父母抛弃不得不去乞讨结果乞讨到了一盆屎然后尼玛你爹被杀你又被人贩子带去解剖这就是你的傻逼一生',
+            '你就是傻逼，天天去吃屎',
             '你就是歌姬吧',
             '你妈死了',
             '爪巴',
